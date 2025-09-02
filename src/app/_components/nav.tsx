@@ -36,7 +36,7 @@ const Nav = () => {
                 }}
             >
                 <List role="menubar" orientation="horizontal">
-                    {['about', 'experience', 'education', 'skills', 'blogs', 'contact'].map((section, i) => (
+                    {['about', 'projects', 'education', 'skills', 'contact'].map((section, i) => (
                         <React.Fragment key={section}>
                             {i !== 0 && <ListDivider sx={{ backgroundColor: '#4a4a4a' }} />}
                             <ListItem role="none">
