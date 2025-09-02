@@ -1,5 +1,4 @@
 import About from './_sections/about'
-import Blogs from './_sections/blogs'
 import Contact from './_sections/contact'
 import Education from './_sections/education'
 import Experience from './_sections/projects'
